@@ -40,8 +40,14 @@
         "audios"
       ]
     },
-    "secondaryLabel": {
+    "projectName": {
       "type": "text"
+    },
+    "city": {
+      "type": "string"
+    },
+    "streetName": {
+      "type": "string"
     }
   }
 }
